@@ -1,0 +1,3 @@
+/home/jmnj/CLionProjects/MatrizEC1/cmake-build-debug/CMakeFiles/MatrizEC1.dir
+/home/jmnj/CLionProjects/MatrizEC1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/jmnj/CLionProjects/MatrizEC1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
